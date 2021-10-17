@@ -1,7 +1,7 @@
 # iterative-methods
 
 
-*Numerical Math I Project *
+*Numerical Math I Project*
 
 Python implementation of the Jacobi and Gauss-Seidel iterative methods that  are the processes of successive approximations
 to solve certain compatible systems of linear equations. Both require the
